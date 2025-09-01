@@ -1,0 +1,40 @@
+.body {
+    background-color: black;
+    font-family: Consolas;
+}
+.chester {
+    background-color: aqua;
+    width: 300px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 5px solid #5CE65C;
+    border-radius: 60px;
+    text-align: center;
+}
+.comida {
+    background-color: yellow;
+    width: 300px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 5px solid #5CE65C;
+    text-align: center;
+}
+.foter {
+    background-color: green;
+    text-align: right;
+    color: white;
+    padding: 10px;
+    width: auto;
+}
+.achu a {
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: green;
+    transition: 0.3s;
+    font-size: 19px;
+}
+.achu a:hover {
+    background-color: #5CE65C;
+    color: red;
+}
