@@ -1,0 +1,23 @@
+.ches{
+    display: flex;
+    gap: 20px;
+    background-color: aqua;
+    border: 5px solid black;
+    width: 390px;
+    height: 240px;
+}
+.pres{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.tex{
+    text-align: center;
+    font-size: 13px;    
+}
+.cat {
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+}
+
